@@ -8,3 +8,4 @@ git commit -m "add responsive UI for price tracker"
 git commit -m "integrate coinmarketcap API"
 git commit -m "fix price update bug"
 git commit -m "improve project documentation"
+git push origin main
